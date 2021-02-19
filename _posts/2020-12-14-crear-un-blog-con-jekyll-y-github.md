@@ -25,7 +25,7 @@ Una vez ya hemos instalado Jekyll iniciaremos un nuevo proyecto llamado blog ing
 jekyll new blog
 ```
 
-![](/prueba/img/tutorial1-1.png)
+![](/img/tutorial1-1.png)
 
 Tras crear el nuevo proyecto, iremos a la carpeta del proyecto recién creado:
 
