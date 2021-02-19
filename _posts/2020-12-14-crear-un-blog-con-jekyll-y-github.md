@@ -41,18 +41,18 @@ bundle exec jekyll serve
 
 Una vez ejecutado, nos dirigiremos a la siguiente dirección **http://127.0.0.1:4000/** dentro del navegador.
 
-![](/prueba/img/tutorial1-2.png)
+![](/img/tutorial1-2.png)
 
 Y veremos la página web.
 
-![](/prueba/img/tutorial1-3.png)
+![](/img/tutorial1-3.png)
 
 En el caso de que no te guste el tema predefinido de jekyll, puedes [descargarte](http://jekyllthemes.org/) temas alternativos y [open source](https://es.wikipedia.org/wiki/C%C3%B3digo_abierto).
 
 # Jekyll admin
 Jekyll admin nos permite administrar el blog así como crear posts de forma más sencilla gracias a su interfaz gráfica.
 
-![](/prueba/img/tutorial1-4.png)
+![](/img/tutorial1-4.png)
 
 Para instalarlo, tendremos que ir a la carpeta donde está situado nuestro blog y añadir la siguiente línea al archivo "Gemfile":
 
@@ -62,7 +62,7 @@ gem 'jekyll-admin'
 
 Tal y como podemos observar en la siguiente imagen:
 
-![](/prueba/img/tutorial1-5.png)
+![](/img/tutorial1-5.png)
 
 Guardamos los cambios y ejecutamos la siguiente línea en el terminal:
 
@@ -72,7 +72,7 @@ bundle install
 
 Produciendo la siguiente salida:
 
-![](/prueba/img/tutorial1-6.png)
+![](/img/tutorial1-6.png)
 
 Tras esto, ejecutamos nuevamente la sentencia:
 
@@ -82,14 +82,14 @@ bundle exec jekyll serve
 
 Y ya podremos acceder a Jekyll admin. Para ello, iremos a la dirección **http://127.0.0.1:4000/admin/** y veremos la siguiente interfaz:
 
-![](/prueba/img/tutorial1-7.png)
+![](/img/tutorial1-7.png)
 
 En la parte de **Posts** encontraremos todo lo relacionado a las entradas del blog, permitiendo modificar o crear entradas nuevas:
 
-![](/prueba/img/tutorial1-8.png)
+![](/img/tutorial1-8.png)
 
 Independientemente de lo que hagas, Jekyll admin nos presentara la siguiente interfaz para editar/crear las entradas:
 
-![](/prueba/img/tutorial1-9.png)
+![](/img/tutorial1-9.png)
 
 En los próximos tutoriales hablaremos de como subir a internet nuestro blog usando [Github](https://github.com/)  de forma gratuita.
