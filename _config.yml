@@ -3,7 +3,7 @@
 
 title: Import Coffee
 description: 
-baseurl: "https://www.blog.importcoffee.es/" # the subpath of your site, e.g. /blog
+baseurl: "https://www.blog.importcoffee.es" # the subpath of your site, e.g. /blog
 url: "https://www.blog.importcoffee.es/" # the base hostname & protocol for your site, e.g. http://example.com
 
 
