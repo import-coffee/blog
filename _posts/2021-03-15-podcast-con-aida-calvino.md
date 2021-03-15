@@ -16,4 +16,4 @@ En El Podcast de Import Coffee hemos tenido el placer de hablar con Aida Calviñ
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5hSHExOm908" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Spotify:
-[Click Aquí]( https://open.spotify.com/episode/6t5DevNaoG1P3qnt2c5zHL?si=RGCpjvwwSraIBakthOaQLg)
+<iframe src="https://open.spotify.com/embed-podcast/episode/6t5DevNaoG1P3qnt2c5zHL" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
