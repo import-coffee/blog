@@ -1,26 +1,10 @@
 [
   
     {
-      "title"    : "Podcast con Gabriel Marín",
-      "category" : "",
-      "tags"     : "Podcast",
-      "url"      : "/podcast-con-gabriel-marin/",
-      "date"     : "2021-03-15 00:00:00 +0100"
-    } ,
-  
-    {
-      "title"    : "Podcast con Aida Calviño",
-      "category" : "",
-      "tags"     : "Podcast",
-      "url"      : "/podcast-con-aida-calvino/",
-      "date"     : "2021-03-15 00:00:00 +0100"
-    } ,
-  
-    {
       "title"    : "Podcast con Justo Pérez Agudín",
       "category" : "",
       "tags"     : "Podcast",
-      "url"      : "/podcast-con-Justo-Perez/",
+      "url"      : "/prueba/podcast-con-Justo-Perez/",
       "date"     : "2020-12-29 00:00:00 +0100"
     } ,
   
@@ -28,7 +12,7 @@
       "title"    : "Crear un blog con jekyll y github pages",
       "category" : "",
       "tags"     : "tutorial, jekyll, github, and blog",
-      "url"      : "/crear-un-blog-con-jekyll-y-github/",
+      "url"      : "/prueba/crear-un-blog-con-jekyll-y-github/",
       "date"     : "2020-12-14 00:00:00 +0100"
     } ,
   
@@ -36,7 +20,7 @@
       "title"    : "¡Nuevo Blog de Import Coffee en desarrollo!",
       "category" : "",
       "tags"     : "Actualización",
-      "url"      : "/nuevo-blog-de-import-coffee/",
+      "url"      : "/prueba/nuevo-blog-de-import-coffee/",
       "date"     : "2020-12-13 00:00:00 +0100"
     } ,
   
@@ -44,7 +28,7 @@
       "title"    : "Tutorial de deep learning en Python",
       "category" : "",
       "tags"     : "python, keras, deep_learning, and tutorial",
-      "url"      : "/introduccion-al-deep-learning-en-python/",
+      "url"      : "/prueba/introduccion-al-deep-learning-en-python/",
       "date"     : "2020-05-30 00:00:00 +0200"
     } 
   
