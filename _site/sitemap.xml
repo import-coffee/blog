@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<<<<<<< HEAD
 <loc>http://localhost:4000/prueba/introduccion-al-deep-learning-en-python/</loc>
 <lastmod>2020-05-30T00:00:00+02:00</lastmod>
 </url>
@@ -24,5 +25,38 @@
 </url>
 <url>
 <loc>http://localhost:4000/prueba/tags/</loc>
+=======
+<loc>http://localhost:4000/https://www.blog.importcoffee.es/introduccion-al-deep-learning-en-python/</loc>
+<lastmod>2020-05-30T00:00:00+02:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/https://www.blog.importcoffee.es/nuevo-blog-de-import-coffee/</loc>
+<lastmod>2020-12-13T00:00:00+01:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/https://www.blog.importcoffee.es/crear-un-blog-con-jekyll-y-github/</loc>
+<lastmod>2020-12-14T00:00:00+01:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/https://www.blog.importcoffee.es/podcast-con-Justo-Perez/</loc>
+<lastmod>2020-12-29T00:00:00+01:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/https://www.blog.importcoffee.es/podcast-con-aida-calvino/</loc>
+<lastmod>2021-03-15T00:00:00+01:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/https://www.blog.importcoffee.es/podcast-con-gabriel-marin/</loc>
+<lastmod>2021-03-15T00:00:00+01:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/https://www.blog.importcoffee.es/about/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/https://www.blog.importcoffee.es/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/https://www.blog.importcoffee.es/tags/</loc>
+>>>>>>> parent of d12fb8d... solving for my autista
 </url>
 </urlset>

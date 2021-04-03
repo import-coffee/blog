@@ -1,10 +1,33 @@
 [
   
     {
+<<<<<<< HEAD
       "title"    : "Podcast con Justo Pérez Agudín",
       "category" : "",
       "tags"     : "Podcast",
       "url"      : "/prueba/podcast-con-Justo-Perez/",
+=======
+      "title"    : "Podcast con Gabriel Marín",
+      "category" : "",
+      "tags"     : "Podcast",
+      "url"      : "https://www.blog.importcoffee.es/podcast-con-gabriel-marin/",
+      "date"     : "2021-03-15 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Podcast con Aida Calviño",
+      "category" : "",
+      "tags"     : "Podcast",
+      "url"      : "https://www.blog.importcoffee.es/podcast-con-aida-calvino/",
+      "date"     : "2021-03-15 00:00:00 +0100"
+    } ,
+  
+    {
+      "title"    : "Podcast con Justo Pérez Agudín",
+      "category" : "",
+      "tags"     : "Podcast",
+      "url"      : "https://www.blog.importcoffee.es/podcast-con-Justo-Perez/",
+>>>>>>> parent of d12fb8d... solving for my autista
       "date"     : "2020-12-29 00:00:00 +0100"
     } ,
   
@@ -12,7 +35,11 @@
       "title"    : "Crear un blog con jekyll y github pages",
       "category" : "",
       "tags"     : "tutorial, jekyll, github, and blog",
+<<<<<<< HEAD
       "url"      : "/prueba/crear-un-blog-con-jekyll-y-github/",
+=======
+      "url"      : "https://www.blog.importcoffee.es/crear-un-blog-con-jekyll-y-github/",
+>>>>>>> parent of d12fb8d... solving for my autista
       "date"     : "2020-12-14 00:00:00 +0100"
     } ,
   
@@ -20,7 +47,11 @@
       "title"    : "¡Nuevo Blog de Import Coffee en desarrollo!",
       "category" : "",
       "tags"     : "Actualización",
+<<<<<<< HEAD
       "url"      : "/prueba/nuevo-blog-de-import-coffee/",
+=======
+      "url"      : "https://www.blog.importcoffee.es/nuevo-blog-de-import-coffee/",
+>>>>>>> parent of d12fb8d... solving for my autista
       "date"     : "2020-12-13 00:00:00 +0100"
     } ,
   
@@ -28,7 +59,11 @@
       "title"    : "Tutorial de deep learning en Python",
       "category" : "",
       "tags"     : "python, keras, deep_learning, and tutorial",
+<<<<<<< HEAD
       "url"      : "/prueba/introduccion-al-deep-learning-en-python/",
+=======
+      "url"      : "https://www.blog.importcoffee.es/introduccion-al-deep-learning-en-python/",
+>>>>>>> parent of d12fb8d... solving for my autista
       "date"     : "2020-05-30 00:00:00 +0200"
     } 
   

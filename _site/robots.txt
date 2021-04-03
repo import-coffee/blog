@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Sitemap: http://localhost:4000/prueba/sitemap.xml
+=======
+Sitemap: http://localhost:4000/https://www.blog.importcoffee.es/sitemap.xml
+>>>>>>> parent of d12fb8d... solving for my autista
