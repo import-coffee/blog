@@ -1,6 +1,6 @@
 ---
 title: Podcast con Gabriel Marín
-image: thumbs_podcast/naval-ravikant-1.jpg
+image: thumbs_podcast/IC_PODCAST_MINIATURA_3.png
 tags:
 - Podcast
 layout: post
