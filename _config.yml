@@ -15,10 +15,8 @@ author-avatar: 09.jpg
 
 #-------------------------------
 # Contact links
-facebook:  https://google.com/ # Add your Facebook handle
-twitter:   https://twitter.com/ # Add your Facebook handle
+twitter:   https://twitter.com/importcoffee_ # Add your Facebook handle
 instagram: https://www.instagram.com/import.coffee/ # Add your Facebook handle
-pinterest: https://www.pinterest.com/ # Add your Facebook handle
 
 
 #-------------------------------
@@ -28,7 +26,7 @@ instafeed: false # To enable the instafeed, use the value true. To turn off use 
 
 #-------------------------------
 # Google Analytics
-google-analytics: # Add your identifier. For example UA-99631805-1.
+google-analytics: G-LV4V35QSPN# Add your identifier. For example UA-99631805-1.
 
 #-------------------------------
 # Build settings
